@@ -1,0 +1,16 @@
+// {
+//     "compilerOptions": {
+//       "target": "ES6",
+//       "lib": ["es6", "dom"],
+//       "types": ["cypress"],
+//       "allowJs": true,
+//       "checkJs": true,
+//       "moduleResolution": "node",
+//       "noEmit": true,  
+//     },
+//     "include": [
+//       "cypress", 
+//       "cypress/support/index.ts",
+//   ]
+//   }
+  
